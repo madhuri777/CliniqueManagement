@@ -1,0 +1,1 @@
+[{"patient":{"p_name":"oo","p_id":6,"phoneno":4567,"age":66},"doctor_id":108,"doctor_name":"ruhi","specilaization":"z","date":"12/04/2018","d_count":1},{"patient":{"p_name":"rr","p_id":3,"phoneno":28763,"age":44},"doctor_id":108,"doctor_name":"ruhi","specilaization":"z","date":"11/03/2018","d_count":2}]
